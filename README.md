@@ -1,4 +1,4 @@
-# Author https://github.com/ajay-bankar07
+# Author https://github.com/ajayxuns
 # Fashion Clothing E-commerce Website
 
 A sleek and modern e-commerce website dedicated to fashion clothing, built using HTML, CSS, and JavaScript.
@@ -25,11 +25,5 @@ This project demonstrates a responsive and interactive website for fashion cloth
 To view and interact with the website:
 
  Clone the repository:
-   ```bash
-   git clone https://github.com/ajay-bankar07/Ecommerce-Website-Using-Html-Css-and-JavaScript.git
-
-License
-This project is open-source and available under the MIT License.
-
-
-You can copy this content and paste it directly into your `README.md` file on GitHub. Let me know if you'd like any other adjustments!
+  
+   git clone https://github.com/ajayxuns/Ecommerce-Website-Using-Html-Css-and-JavaScript.git
